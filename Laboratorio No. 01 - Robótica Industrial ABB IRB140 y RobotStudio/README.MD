@@ -1,10 +1,13 @@
 # Informe de Laboratorio No. 01: Robótica Industrial
 
 **Universidad:** Universidad Nacional de Colombia
+
 **Asignatura:** Robótica 2026-I
-**Fecha de entrega:** [Tu fecha aquí]
-**Estudiantes:** [Nombre 1] y [Nombre 2]
-**Repositorio GitHub:** [Enlace a tu repositorio]
+
+**Fecha de entrega:** 24/04/2024
+
+**Estudiantes:** David Santiago Pirateque Suarez, Jose Daniel Suarez Vasques y David Felipe Cardenas Cubides 
+
 
 ---
 
