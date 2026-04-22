@@ -29,7 +29,7 @@
 ## 3. Diagrama de flujo de acciones del robot
 
 *(Asegúrate de guardar la imagen de tu diagrama en la misma carpeta que este archivo y cambia el nombre abajo)*
-![Diagrama de flujo del robot](Laboratorio No. 01 - Robótica Industrial ABB IRB140 y RobotStudio/Copia de Diagrama en blanco.png)
+![Diagrama de flujo del robot](/Copia de Diagrama en blanco.png)
 
 ## 4. Plano de planta de la ubicación de cada uno de los elementos
 
