@@ -31,7 +31,7 @@
 *(Asegúrate de guardar la imagen de tu diagrama en la misma carpeta que este archivo y cambia el nombre abajo)*
 ![Diagrama de flujo del robot]()
 ### UART receiver
-<img src="./Laboratorio No. 01 - Robótica Industrial ABB IRB140 y RobotStudio/Copia de Diagrama en blanco.png" alt="Simulacion testbench general" />
+<img src="./Laboratorio No. 01 - Robótica Industrial ABB IRB140 y RobotStudio/Diagrama.png" alt="Simulacion testbench general" />
 
 ## 4. Plano de planta de la ubicación de cada uno de los elementos
 
