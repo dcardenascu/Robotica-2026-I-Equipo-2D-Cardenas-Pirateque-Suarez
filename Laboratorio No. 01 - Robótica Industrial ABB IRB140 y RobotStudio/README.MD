@@ -28,7 +28,8 @@
 
 ## 3. Diagrama de flujo de acciones del robot
 
-*(Asegúrate de guardar la imagen de tu diagrama en la misma carpeta que este archivo y cambia el nombre abajo)*
+el diagrama de flujo del modulo 1 del RAPID  usado durante la practica:
+
 ![Diagrama de flujo del robot](Diagrama.png)
 
 
