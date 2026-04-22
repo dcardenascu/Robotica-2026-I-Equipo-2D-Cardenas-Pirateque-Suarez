@@ -89,10 +89,10 @@ Aquí se documentan los laboratorios, avances, resultados y la presentación de 
   <img src="./assets/integrantes/integrante3.jpg" alt="Foto integrante 3" style="border-radius: 50%; width: 180px;"><br>
 </div>
 
-- **Nombre completo:** Nombre Apellido
+- **Nombre completo:** David Felipe Cardenas Cubides
 - **Carrera:** Ingeniería Mecatrónica
-- **Correo institucional:** nombre@unal.edu.co
-- **Usuario de GitHub:** [usuariogithub](https://github.com/usuariogithub)
+- **Correo institucional:** dcardenascu@unal.edu.co
+- **Usuario de GitHub:** [dcardenascu](https://github.com/dcardenascu)
 - **Rol en el equipo:** Ej. Documentación, pruebas, simulación
 - **Intereses:** Robótica industrial, sistemas autónomos, IA
 - **Descripción breve:**  
