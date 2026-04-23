@@ -13,11 +13,13 @@
 
 ## 1. Descripción detallada de la solución planteada
 
-[Escribe aquí la introducción de cómo tu grupo abordó el problema. Debes mencionar:
-* Cómo resolvieron la decoración de la torta virtual para 20 personas.
-* La escritura de los nombres separados y la decoración a gusto.
-* La lógica detrás del uso del nuevo Workobject para el cuadrante x(+), y(-).
-* Cómo se manejaron las entradas/salidas digitales (botón de inicio, pose de mantenimiento, y control del variador de frecuencia de la banda transportadora).]
+Para comenzar el laboratorio, se realizó la calibración del workobject y de la herramienta a utilizar. En ambos casos, esta calibración se realizo tanto de forma digital (con el modelo 3D de cada objeto) como de forma manual (usando la herramienta ya impresa en 3D y el workobject físico). Para esta práctica, el workobject consistió en una caja con una lámina sobre la cual el marcador pudiera escribir.
+
+Una vez hecho esto, se realizó la programación de trayectorias desde el software de RobotStudio. Se comenzó definiendo la posición inicial, también conocida en RAPID como target_home. Luego, se procedió con el diseño del pastel, basándose principalmente en el workobject digital, ya que este se diseñó con las formas que se esperaban dibujar utilizando los comandos de movimiento MoveL, MoveJ y MoveC.
+
+Con las trayectorias planteadas en la simulación, se pasó a las pruebas físicas con el manipulador industrial IRB 140. Ahí se probaron ambas calibraciones de la herramienta y se optó por la [___]. Durante la ejecución, se observó que el marcador estaba bajando más de lo necesario; por lo tanto, se elevó el workobject en la simulación para corregir este problema.
+
+Por último, se configuraron las entradas y salidas del controlador IRC5 para la activación de la banda transportadora y de los pilotos indicadores, así como para la lectura de las entradas digitales correspondientes a los pulsadores del tablero. Con esto, se finalizó la configuración de la rutina principal donde taambien se le asigno la posicion de mantenimiento.
 
 ## 2. Diseño de la herramienta detallado
 
