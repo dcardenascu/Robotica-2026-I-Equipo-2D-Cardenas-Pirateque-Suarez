@@ -18,7 +18,8 @@
 | **Grupo** | No. 2D |
 | **Docente** | Nombre del docente |
 | **Fecha de entrega** | 25/04/2026 |
-
+| **Video de funcionamiento** | https://youtu.be/... |
+| **Video de simulacion** | https://youtu.be/... |
 
 ## 1. Introducción
 
@@ -110,5 +111,5 @@ ENDMODULE
 1. ABB Robotics, *IRB 140 Product Specification*, ABB Group, 2023. [En línea]. Disponible: https://new.abb.com/products/robotics/robots/articulated-robots/irb-140
 2. ABB Robotics, *DSQC 652 – 3HAC025917-001/00 Digital I/O Module*, ABB Group.
 3. ABB Robotics, *RAPID Reference Manual*, ABB Group. [En línea]. Disponible: https://developercenter.robotstudio.com/
-4. [Agregar referencias adicionales del grupo]
+
 
